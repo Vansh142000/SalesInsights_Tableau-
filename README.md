@@ -38,3 +38,5 @@ Through this project, the following results were achieved:
 - **MySQL:** To manage and query the sales transaction data.
 - **SQL:** To perform data analysis and extract relevant information from the database.
 
+## Dashbboard 
+
