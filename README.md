@@ -39,4 +39,5 @@ Through this project, the following results were achieved:
 - **SQL:** To perform data analysis and extract relevant information from the database.
 
 ## Dashbboard 
+![Sales Insights 1 ](https://github.com/user-attachments/assets/9efeb270-544b-46f5-9d82-104b39ce0d11)
 
